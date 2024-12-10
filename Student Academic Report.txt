@@ -1,0 +1,55 @@
+\documentclass{article}
+\usepackage{graphicx} %
+\usepackage{multirow}
+
+\title{\textbf{ \LARGE Student Academic Report}}
+\author{Computer Science and Engineering}
+
+\date{2024}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+This Report is made for the purpose of analysing Student's Academic performances
+and their weakness, strength to provide them with better teaching and guidance.
+We will see various academic performances like attendance, marks, interaction etc.
+
+\section{Key Observations}
+
+\begin{itemize}
+    \item Attendance Percentage
+    \item Number of Subjects taken
+    \item Average marks of the class
+\end{itemize}
+
+\section{Student Marks}
+\begin{table}[h!]
+
+\begin{tabular}{|c|c|c|c|c|c|c|}
+
+\hline
+Roll Number & Name & \multicolumn{4}{|c|}{Marks} & Total Marks \\
+\hline
+ & &DAA&Network&Information Security&Computer Architcture&\\
+\hline
+1661 &Akshay&50&50&50&50&200 \\
+\hline
+1662 &Dhruvik&50&100&50&50&250 \\
+\hline
+1663 &Pranav&50&50&100&70&270 \\
+\hline
+1664 &Rahul&50&50&60&50&280 \\
+\hline
+1665 &Vraj&50&50&50&50&200 \\
+\hline
+
+\end{tabular}
+     
+\end{table}
+
+
+
+
+\end{document}
