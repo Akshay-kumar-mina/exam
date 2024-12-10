@@ -22,6 +22,8 @@ We will see various academic performances like attendance, marks, interaction et
     \item Attendance Percentage
     \item Number of Subjects taken
     \item Average marks of the class
+    \item Highest Score
+    \item Lowest Score
 \end{itemize}
 
 \section{Student Marks}
