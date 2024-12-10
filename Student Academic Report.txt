@@ -3,7 +3,7 @@
 \usepackage{multirow}
 
 \title{\textbf{ \LARGE Student Academic Report}}
-\author{Computer Science and Engineering}
+\author{Arificial Intelligence and Data Engineering}
 
 \date{2024}
 
@@ -32,7 +32,7 @@ We will see various academic performances like attendance, marks, interaction et
 \hline
 Roll Number & Name & \multicolumn{4}{|c|}{Marks} & Total Marks \\
 \hline
- & &DAA&Network&Information Security&Computer Architcture&\\
+ & &Machine learning&Neural Network&Algebra&Probabilty&\\
 \hline
 1661 &Akshay&50&50&50&50&200 \\
 \hline
